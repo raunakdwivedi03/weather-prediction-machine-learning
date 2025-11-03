@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Project Specific
+*.pkl
+*.csv
+*.xlsx
+*.xls
+data/
+weather_model.pkl
+models/
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.bak
+*.orig
+*~
+
+# Environment Variables
+.env
+.env.local
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# IDE specific
+.pytype/
+.dmypy.json
+dmypy.json
+
+# Miscellaneous
+*.zip
+*.tar.gz
+*.rar
